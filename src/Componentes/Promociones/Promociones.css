@@ -1,0 +1,15 @@
+#textoPromociones{
+    font-family: 'Comic Sans MS', sans-serif;
+    color: red;
+  }
+
+#informacionPromocion {
+    text-align: center;
+    font-size: 17px;
+    margin-top: -20px;
+}
+
+#textoKitCompleto {
+    font-weight: bold;
+    font-size: 20px;
+}
