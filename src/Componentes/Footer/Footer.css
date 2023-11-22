@@ -1,0 +1,50 @@
+/* Footer.css */
+.footer {
+  background-color: #c3c3c3;
+  color: black;
+  text-align: left;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#textoFooter {
+  font-size: 22px;
+  margin-left: 95px;
+  margin-top: -0px;
+}
+
+#textoFacebook {
+  font-size: 12px;
+  font-weight: normal;
+  margin-left: 95px;
+  padding: 3px;
+  margin-top: -20px;
+}
+
+#textoInstagram {
+  font-size: 12px;
+  font-weight: normal;
+  margin-left: 95px;
+  padding: 3px;
+  margin-top: -15px;
+}
+
+#textoTwitter {
+  font-size: 12px;
+  font-weight: normal;
+  margin-left: 95px;
+  padding: 3px;
+  margin-top: -15px;
+}
+
+#imagenInternaGato img {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  width: 100px;
+}
