@@ -5,7 +5,6 @@ function Promociones() {
   return (
     <div id="divPrincipal">
       <div>
-        <br />
         <h1 id="textoPromociones">¡PROMOCIONES DE LOCURA!</h1>
       </div>
       <div id="informacionPromocion">

@@ -4,6 +4,7 @@ import Header from "./Componentes/Header/Header";
 import Introduccion from "./Componentes/Introduccion/Introduccion";
 import Footer from "./Componentes/Footer/Footer";
 import Promociones from "./Componentes/Promociones/Promociones";
+import ImagenesPromociones from "./Componentes/ImagenesPromociones/ImagenesPromociones";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <main>
         <Introduccion />
         <Promociones />
+        <ImagenesPromociones />
       </main>
       <footer>
         <Footer />
