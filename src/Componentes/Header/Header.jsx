@@ -13,7 +13,7 @@ function Header() {
             <a href="#">Contáctanos</a>
           </li>
           <li>
-            <a href="#">Adopta (API)</a>
+            <a href="#">Adopta-API</a>
           </li>
           <li>
             <a href="#">Ubicación</a>

@@ -3,7 +3,7 @@
     justify-content: space-between;
   }
   
-  #boton1 {
+  #botonCuidado {
     padding: 10px;
     margin: 5px;
     position: absolute;
@@ -13,7 +13,7 @@
     font-weight: bold;
   }
 
-  #boton2 {
+  #botonComida {
     padding: 10px;
     margin: 5px;
     position: absolute;
@@ -23,7 +23,7 @@
     font-weight: bold;
   }
 
-  #boton3 {
+  #botonJugueteria {
     padding: 10px;
     margin: 5px;
     position: absolute;
