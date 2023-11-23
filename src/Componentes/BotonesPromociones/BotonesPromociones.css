@@ -1,0 +1,36 @@
+.contenedorBotones {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #boton1 {
+    padding: 10px;
+    margin: 5px;
+    position: absolute;
+    top: 77%;
+    left: 13%;
+    border-radius: 7px;
+    font-weight: bold;
+  }
+
+  #boton2 {
+    padding: 10px;
+    margin: 5px;
+    position: absolute;
+    top: 77%;
+    left: 41%;
+    border-radius: 7px;
+    font-weight: bold;
+  }
+
+  #boton3 {
+    padding: 10px;
+    margin: 5px;
+    position: absolute;
+    top: 77%;
+    left: 69%;
+    border-radius: 7px;
+    font-weight: bold;
+  }
+  
+

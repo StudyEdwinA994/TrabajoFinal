@@ -5,6 +5,7 @@ import Introduccion from "./Componentes/Introduccion/Introduccion";
 import Footer from "./Componentes/Footer/Footer";
 import Promociones from "./Componentes/Promociones/Promociones";
 import ImagenesPromociones from "./Componentes/ImagenesPromociones/ImagenesPromociones";
+import BotonesPromociones from "./Componentes/BotonesPromociones/BotonesPromociones";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Introduccion />
         <Promociones />
         <ImagenesPromociones />
+        <BotonesPromociones />
       </main>
       <footer>
         <Footer />

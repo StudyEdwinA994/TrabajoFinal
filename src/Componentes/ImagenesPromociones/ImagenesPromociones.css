@@ -1,7 +1,40 @@
+.aumentoImagen {
+    transition: transform 0.3s ease;
+}
+
+.aumentoImagen:hover {
+    transform: scale(1.4);
+}
+
 #contenedorImagenes img {
     width: 220px;
     height: 220px;
     float: left;
     margin-left: 200px;
     border-radius: 20px;
+    border: 7px solid black;
+}
+
+#txtImagenCuidado {
+    position: absolute;
+    top: 36%;
+    left: 16%;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#txtImagenComida {
+    position: absolute;
+    top: 36%;
+    left: 45%;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#txtImagenJugueteria {
+    position: absolute;
+    top: 36%;
+    left: 71%;
+    font-weight: bold;
+    font-size: 30px;
 }
