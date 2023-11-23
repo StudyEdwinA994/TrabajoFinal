@@ -6,6 +6,7 @@ import Footer from "./Componentes/Footer/Footer";
 import Promociones from "./Componentes/Promociones/Promociones";
 import ImagenesPromociones from "./Componentes/ImagenesPromociones/ImagenesPromociones";
 import BotonesPromociones from "./Componentes/BotonesPromociones/BotonesPromociones";
+import IncrementoDecremento from "./Componentes/BotonesIncrementoDecremento/IncrementoDecremento";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Promociones />
         <ImagenesPromociones />
         <BotonesPromociones />
+        <IncrementoDecremento />
       </main>
       <footer>
         <Footer />

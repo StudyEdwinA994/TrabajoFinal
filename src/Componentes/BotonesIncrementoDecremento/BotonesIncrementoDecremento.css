@@ -1,0 +1,67 @@
+.contenedorIncrementoDecremento {
+  display: flex;
+  justify-content: space-between;
+}
+
+#botonMasCuidados {
+  margin: 2px;
+  position: absolute;
+  top: 79.1%;
+  left: 22.3%;
+}
+
+#textoCuidados {
+  position: absolute;
+  top: 79.1%;
+  left: 24.7%;
+  font-weight: bold;
+}
+
+#botonMenosCuidados {
+  margin: 3px;
+  position: absolute;
+  top: 78.9%;
+  left: 26%;
+}
+
+#botonMasComida {
+  margin: 2px;
+  position: absolute;
+  top: 79.1%;
+  left: 50.3%;
+}
+
+#textoComida {
+  position: absolute;
+  top: 79.2%;
+  left: 52.7%;
+  font-weight: bold;
+}
+
+#botonMenosComida {
+  margin: 3px;
+  position: absolute;
+  top: 78.8%;
+  left: 54%;
+}
+
+#botonMasJugueteria {
+  margin: 2px;
+  position: absolute;
+  top: 79.1%;
+  left: 78.3%;
+}
+
+#textoJugueteria {
+  position: absolute;
+  top: 79.2%;
+  left: 80.7%;
+  font-weight: bold;
+}
+
+#botonMenosJugueteria {
+  margin: 3px;
+  position: absolute;
+  top: 78.8%;
+  left: 82%;
+}
