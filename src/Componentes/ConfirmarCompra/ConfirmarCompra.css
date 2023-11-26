@@ -1,0 +1,16 @@
+.contenedorBotonCompra {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #botonConfirmarCompra {
+    background-color: #BAC3FF;
+    color: red;
+    padding: 10px;
+    margin: 5px;
+    position: absolute;
+    top: 57%;
+    left: 86%;
+    border-radius: 10px;
+    font-weight: bold;
+  }

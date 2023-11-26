@@ -2,6 +2,8 @@
 
 Work made by: Edwin Leonardo Alzate Avendaño - Desarrollo de Software 2 - 2310B04G4.
 Github repository: https://github.com/StudyEdwinA994/TrabajoFinal.git
+Note: API call is not implemented.
+
 
 # Getting Started with Create React App
 

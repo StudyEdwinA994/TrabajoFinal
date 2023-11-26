@@ -7,6 +7,8 @@ import Promociones from "./Componentes/Promociones/Promociones";
 import ImagenesPromociones from "./Componentes/ImagenesPromociones/ImagenesPromociones";
 import BotonesPromociones from "./Componentes/BotonesPromociones/BotonesPromociones";
 import IncrementoDecremento from "./Componentes/BotonesIncrementoDecremento/IncrementoDecremento";
+import BotonConfirmar from "./Componentes/ConfirmarCompra/ConfirmarCompra";
+
 
 function App() {
   return (
@@ -20,6 +22,7 @@ function App() {
         <ImagenesPromociones />
         <BotonesPromociones />
         <IncrementoDecremento />
+        <BotonConfirmar />
       </main>
       <footer>
         <Footer />
